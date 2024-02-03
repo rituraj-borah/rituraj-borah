@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Rituraj Borah
 #### Data Analytics | 9+ years Experience | Banking Domain |
-![Data Analytics | 9+ years Experience | Banking Domain |](https://www.canva.com/design/DAF7sfYNdyw/-hl4eYYEVGYwcr7nBD9UEQ/edit?utm_content=DAF7sfYNdyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+! [Data Analytics | 9+ years Experience | Banking Domain |] (https://github.com/rituraj-borah/rituraj-borah/blob/main/Rituraj%20Borah%20(1).png)
 
 I am a highly passionate Data Analyst with over 9 years of experience in the IT sector. Proficient in extracting and analyzing complex data to support strategic decision-making.
 

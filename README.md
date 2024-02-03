@@ -1,6 +1,6 @@
 ![Data Analytics | 9+ years Experience | Banking Domain |](https://github.com/rituraj-borah/rituraj-borah/blob/main/Github_Banner.jpg)
 
-# Rituraj Borah  [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Github%20logo.png' alt='github' height='30'>](https://github.com/https://github.com/rituraj-borah)
+# Rituraj Borah
 
 I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in the IT sector, I excel in harnessing SQL, Python, Excel, Power BI, and Tableau to uncover and analyze complex data patterns. My expertise in transforming data insights into actionable strategies has driven substantial growth and efficiency improvements. Proven track record of supporting strategic decision-making through meticulous data analysis.
 
@@ -31,5 +31,5 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 - 🌱 I’m currently learning Data Analytics in Business 
 - 💬 Ask me about Anything related to Data Analysis 
 - 📫 How to reach me: riturajborah.ca@gmail.com 
-
+## Social Site:
 [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Github%20logo.png' alt='github' height='40'>](https://github.com/https://github.com/rituraj-borah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rituraj-borah-junaak/)  

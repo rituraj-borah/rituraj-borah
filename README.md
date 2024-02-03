@@ -2,7 +2,18 @@
 
 ### Hi there 👋, I'm Rituraj Borah
 
-I am a highly passionate Data Analyst with over 9 years of experience in the IT sector. Proficient in extracting and analyzing complex data to support strategic decision-making. Adept at translating data-driven insights into actionable business strategies to drive growth and efficiency.
+As a dedicated Data Analyst with 9+ years in the banking sector, I excel in harnessing SQL, Python, Excel, Power BI, and Tableau to uncover and analyze complex data patterns. My expertise in transforming data insights into actionable strategies has driven substantial growth and efficiency improvements. Proven track record of supporting strategic decision-making through meticulous data analysis.
+
+#### Professional Experience:
+##### Data Analyst Attra Infotech (P) Limited - Hyderabad, India)
+(_August 2021 - December 2022_)
+
+* I collaborated closely with the product team to design better credit card product for the clients based on my insights after
+analyzing over 100K+ customer records.
+* Delivered actionable insights and recommendations for product attributes, contributing to a 6.5% increase in new customer
+acquisition that year.
+• Developed and implemented an end-to-end data reporting process, enhancing the reporting pipeline and optimizing
+existing procedures for the offshore team using Azure and Power BI, improving reporting efficiency by 15% .
 
 #### Skills: 
   *  Excel

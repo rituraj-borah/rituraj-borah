@@ -1,6 +1,6 @@
 ![Data Analytics | 9+ years Experience | Banking Domain |](https://github.com/rituraj-borah/rituraj-borah/blob/main/Github_Banner.jpg)
 
-<img src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Github_Banner.jpg" height="300" />
+<img src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Github_Banner.jpg" height="250" />
 
 # Rituraj Borah
 

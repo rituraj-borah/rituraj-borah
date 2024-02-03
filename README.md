@@ -29,6 +29,7 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 
 ## My Project works:
 
+- [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif' height='40'>](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
 
 ## How to reach me:
 - [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/LinkedIn%20blue.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rituraj-borah-junaak)

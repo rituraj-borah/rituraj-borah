@@ -29,8 +29,8 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 
 ## My Project works:
 
-### Analysis of Permanent Resident Admissions in Canada:
-- [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif' height='200' width="200">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
+### 1. Analysis of Permanent Resident Admissions in Canada:
+[<img align='centre' src='https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif' height='200' width="200">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
   - In this project, I have used Excel and Tableau as the main tools to analyze and visaulize data collected from 5 different data sources to gain insight regarding the Permanent Residency situation in Canada. I have started by cleaning the data, arranging it, pivoting columns in Tableau to explore the trends in immigration categories namely Permanent residency, Express entry and Study permit. Created four dashboards (Permanent residency, Express entry, Study permit and Immigration trends - pre and post pandemic) showing the key insights from the data.
 
 ## How to reach me:

@@ -36,4 +36,4 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 - [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Github%20logo.png' alt='github' height='40'>](https://github.com/https://github.com/rituraj-borah)
 - <img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Gmail.png' alt='github' height='40'>: riturajborah.ca@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rituraj-borah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rituraj-borah-junaak) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rituraj-borah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rituraj-borah-junaak)

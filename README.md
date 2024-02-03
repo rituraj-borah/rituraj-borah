@@ -32,7 +32,9 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 ### 1. Analysis of Permanent Resident Admissions in Canada:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif">
+  
+  [<img width="400" height="200" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
+
 </p>
 
 [<img align='center' src='https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif' height='200' width="400">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)

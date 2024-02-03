@@ -2,7 +2,7 @@
 
 # Rituraj Borah
 
-I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in the IT sector, I excel in harnessing SQL, Python, Excel, Power BI, and Tableau to uncover and analyze complex data patterns. My expertise in transforming data insights into actionable strategies has driven substantial growth and efficiency improvements. Proven track record of supporting strategic decision-making through meticulous data analysis.
+I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in the IT sector. I excel in harnessing SQL, Python, Excel, Power BI, and Tableau to uncover and analyze complex data patterns. My expertise in transforming data insights into actionable strategies has driven substantial growth and efficiency improvements. Proven track record of supporting strategic decision-making through meticulous data analysis.
 
 ## Professional Experience:
 

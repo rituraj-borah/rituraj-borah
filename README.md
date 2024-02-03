@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Rituraj Borah
+#### Data Analytics | 9+ years Experience | Banking Domain |
+![Data Analytics | 9+ years Experience | Banking Domain |](https://www.canva.com/design/DAF7sfYNdyw/-hl4eYYEVGYwcr7nBD9UEQ/edit?utm_content=DAF7sfYNdyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-I'm **Rituraj** from India, and I am a highly passionate Data Analyst with over 9 years of experience in the IT sector. 
-Proficient in extracting and analyzing complex data to support strategic decision-making. Skilled in utilizing tools like SQL, Python, Power BI, and Tableau to interpret trends and patterns.
+I am a highly passionate Data Analyst with over 9 years of experience in the IT sector. Proficient in extracting and analyzing complex data to support strategic decision-making.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj-borah)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Excel / Tableau / Power BI / SQL / Python / Azure Cosmos DB
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Data Analytics in Business 
+- 💬 Ask me about Anything related to Data Analysis 
+- 📫 How to reach me: riturajborah.ca@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rituraj-borah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rituraj-borah-junaak/)  
+

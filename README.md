@@ -27,11 +27,8 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 ## Skills: 
 <img src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Skill%20Set%20new.jpg" width="800" />
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Data Analytics in Business 
-- 💬 Ask me about Anything related to Data Analysis 
-
 ## My Project works:
+
 
 ## How to reach me:
 - [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/LinkedIn%20blue.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rituraj-borah-junaak)

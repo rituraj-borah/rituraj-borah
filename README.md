@@ -25,7 +25,7 @@ I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in t
 * Helped to identify important functionalities related to majority of defects leakage to production for multiple projects. This led to improvement in existing testing processes and less defect leakage to Production.
 
 ## Skills: 
-  *  Excel <img src="https://github.com/rituraj-borah/rituraj-borah/blob/main/excel%20icon.png" width="50" />
+  *  Excel
   *  Python
   *  Tableau
   *  Power BI

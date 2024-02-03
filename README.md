@@ -1,4 +1,4 @@
-### Hi there 👋, Rituraj Borah
+### Hi there 👋, My name is Rituraj Borah
 #### Data Analytics | 9+ years Experience | Banking Domain |
 ![Data Analytics | 9+ years Experience | Banking Domain |](https://www.canva.com/design/DAF7sfYNdyw/-hl4eYYEVGYwcr7nBD9UEQ/edit?utm_content=DAF7sfYNdyw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

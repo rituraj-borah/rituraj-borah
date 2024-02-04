@@ -45,6 +45,7 @@ In this project, **Excel** and **Tableau** were leveraged to analyze and visuali
 This project conducts a detailed analysis of Ontario's dairy industry, focusing on _sales trends, seasonal patterns, market share, and consumption habits_ through the use of **Python, Excel**, and **Tableau**. It delivers strategic insights for decision-making, enhances production planning, and informs policy-making within the dairy sector. This succinct yet comprehensive approach provides key stakeholders with actionable insights to navigate the market's complexities effectively.
 
 
+
 ## How to reach me:
 - [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/LinkedIn%20blue.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rituraj-borah-junaak)
 - [<img src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Github%20logo.png' alt='github' height='40'>](https://github.com/rituraj-borah)  

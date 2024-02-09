@@ -2,15 +2,15 @@
 
 # Rituraj Borah
 
-I'm Rituraj Borah, a dedicated Data Analyst with over 9 years of experience in the IT sector. I excel in harnessing SQL, Python, Excel, Power BI, and Tableau to uncover and analyze complex data patterns. My expertise in transforming data insights into actionable strategies has driven substantial growth and efficiency improvements. Proven track record of supporting strategic decision-making through meticulous data analysis.
+I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking domain, I specialize in creating advanced reports and turning large datasets into actionable insights. With a strong ability to align technical solutions with business needs, I ensure data integrity through comprehensive analysis and effectively engage with stakeholders to support strategic decisions. Currently enhancing my skills through a Data Analytics course, set to be completed in April 2024, I am committed to delivering cutting-edge data analysis and insights
 
 ## Professional Experience:
 
 ### Data Analyst at Attra Infotech (P) Limited (Hyderabad, India)
 (_August 2021 - December 2022_)
-* I collaborated closely with the product team to design better credit card product for the clients based on my insights after analyzing over 100K+ customer records.
-* Delivered actionable insights and recommendations for product attributes, contributing to a **6.5%** increase in new customer acquisition that year.
-* Developed and implemented an end-to-end data reporting process, enhancing the reporting pipeline and optimizing existing procedures for the offshore team using Azure and Power BI, improving reporting efficiency by **15%** .
+•	Collaborated with product teams to translate customer requirements into functional product features, analyzing over **100K+** customer records to design superior credit card products.
+•	Enhanced data reporting processes, prioritizing work to ensure a forward-looking roadmap for actionable insights, leading to a **6.5%** increase in customer acquisition.
+•	Developed and supported efficient utilization of reporting platforms using Azure and Power BI, boosting reporting efficiency by **15%** and facilitating end-user proficiency.
 
 ### Senior Software Engineer at HSBC Software Development Centre (Hyderabad, India)
 (_August 2018 - August 2021_)

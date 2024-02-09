@@ -8,9 +8,9 @@ I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking
 
 ### Data Analyst at Attra Infotech (P) Limited (Hyderabad, India)
 (_August 2021 - December 2022_)
-•	Collaborated with product teams to translate customer requirements into functional product features, analyzing over **100K+** customer records to design superior credit card products.
-•	Enhanced data reporting processes, prioritizing work to ensure a forward-looking roadmap for actionable insights, leading to a **6.5%** increase in customer acquisition.
-•	Developed and supported efficient utilization of reporting platforms using Azure and Power BI, boosting reporting efficiency by **15%** and facilitating end-user proficiency.
+*	Collaborated with product teams to translate customer requirements into functional product features, analyzing over **100K+** customer records to design superior credit card products.
+*	Enhanced data reporting processes, prioritizing work to ensure a forward-looking roadmap for actionable insights, leading to a **6.5%** increase in customer acquisition.
+*	Developed and supported efficient utilization of reporting platforms using Azure and Power BI, boosting reporting efficiency by **15%** and facilitating end-user proficiency.
 
 ### Senior Software Engineer at HSBC Software Development Centre (Hyderabad, India)
 (_August 2018 - August 2021_)

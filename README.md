@@ -34,7 +34,7 @@ I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking
 
 ### 1. [Financial Markets Vs Macro-Economic Indicators of USA](https://github.com/rituraj-borah/Capstone_Part-1_Financial-Markets-Vs-Macro-Economic-Indicators-of-USA) : 
 
-[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Fiancial%20Market.gif" height='250' width="400">]([https://github.com/rituraj-borah/Capstone_Part-1_Financial-Markets-Vs-Macro-Economic-Indicators-of-USA](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/))
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Fiancial%20Market.gif" height='250' width="400">](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/)
 * This project delves into the analysis of financial markets and macroeconomic indicators of USA | Canada | India.
 *	Developed and deployed a data pipeline with Azure functions to automate the retrieval of financial data from Yahoo Finance, storing this data in Cosmos DB for efficient access and manipulation.
 *	Built and integrated machine learning models like XGBoost, FB-Prophet & LSTM to forecast stock prices based on historical data trends and macroeconomic indicators, enhancing the predictive accuracy.

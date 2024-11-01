@@ -6,32 +6,32 @@ I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking
 
 ## Professional Experience:
 
-### Data Scientist at St. Clair College (Windsor, Ontario)
+### Data Scientist at St. Clair College
 #### (Internship - Financial Markets Vs Macro-Economic Indicators)
-(_Windsor, Ontario - April 2023 - May 2024_)
+(_Windsor, Ontario : April 2023 - May 2024_)
 *	Designed and deployed an automated data pipeline using Azure Functions to fetch real-time financial data from Yahoo Finance.
 *	Developed predictive stock price forecasting models using XGBoost, FB-Prophet, and LSTM, improving forecasting accuracy by analyzing historical data and macroeconomic indicators.
 *	Utilized Python libraries such as Pandas, NumPy, and Scikit-Learn for comprehensive data processing and model training.
 *	Visualized key financial metrics and market trends through interactive charts and graphs for better user engagement.
 *	Enabled users to gain insights into stock performance with features for statistical and sentiment analysis in the dashboard
 
-### Data Analyst at Attra Infotech (P) Limited (Hyderabad, India)
-(_August 2021 - December 2022_)
+### Data Analyst at Attra Infotech (P) Limited
+(_Hyderabad, India : August 2021 - December 2022_)
 *	Developed and maintained automated data pipelines consolidating AWS S3, Excel, and SQL data sources into Power BI dashboards, offering instant insights into customer data.
 *	Utilized SQL and Python's pandas for analysis on 100K+ credit card records, identifying key insights with interactive Plotly visualizations.
 *	Analyzed large transaction datasets using Excel and Power BI dashboards, uncovering a 15% rise in customer spending, demonstrating the loyalty program’s effectiveness.
 *	Acted as a primary source of expertise in data structure and workflow of supporting systems, translating user stories into technical requirements.
 *	Monitored and resolved data quality issues to ensure accuracy and reliability
 
-### Data Analyst at HSBC Software Development Centre (Hyderabad, India)
-(_August 2018 - August 2021_)
+### Data Analyst at HSBC Software Development Centre
+(_Hyderabad, India : August 2018 - August 2021_)
 * Developed machine learning classification models to analyze customer credit card data, distinguishing between delinquent and non-delinquent accounts for our client reducing unpaid financial losses by 12%.
 *	Integrated SQL databases with Tableau, revealing a 30% increase in contactless payment preferences through custom SQL queries and data visualization.
 *	Conducted trend analysis using Python, employing data transformation techniques and root cause analysis to reveal essential insights.
 *	Streamlined analysis of customer spending behaviors through optimized SQL database features, improving query response times and identifying high-value clients.
 
-### Quality Analyst Capgemini India (Pvt.) Ltd. (Hyderabad, India)
-(_September 2013 - August 2018_)
+### Quality Analyst Capgemini India (Pvt.) Ltd.
+(_Hyderabad, India : September 2013 - August 2018_)
 * Initiated UAT process improvements by leveraging Pivot Table and V-lookup for analyzing historical defects related data resulting in overall defect reduction by up to 17% in production.
 * Expedited testing phases by 30% through strategic risk management, identifying and resolving critical functional flaws with stakeholders, thereby elevating overall testing efficiency.
 

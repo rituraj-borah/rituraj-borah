@@ -8,7 +8,7 @@ I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking
 
 ### Data Scientist at St. Clair College (Windsor, Ontario)
 #### (Internship - Financial Markets Vs Macro-Economic Indicators)
-(_April 2023 - May 2024_)
+(_Windsor, Ontario - April 2023 - May 2024_)
 *	Designed and deployed an automated data pipeline using Azure Functions to fetch real-time financial data from Yahoo Finance.
 *	Developed predictive stock price forecasting models using XGBoost, FB-Prophet, and LSTM, improving forecasting accuracy by analyzing historical data and macroeconomic indicators.
 *	Utilized Python libraries such as Pandas, NumPy, and Scikit-Learn for comprehensive data processing and model training.

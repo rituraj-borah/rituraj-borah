@@ -2,7 +2,7 @@
 
 # Rituraj Borah
 
-I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking domain, I specialize in creating advanced reports and turning large datasets into actionable insights. With a strong ability to align technical solutions with business needs, I ensure data integrity through comprehensive analysis and effectively engage with stakeholders to support strategic decisions. Currently enhancing my skills through a Data Analytics course, set to be completed in April 2024, I am committed to delivering cutting-edge data analysis and insights
+I'm Rituraj Borah, an Experienced Data Analyst with 9 years in IT and banking sectors, specializing in credit and debit card products. Proficient in managing large datasets, driving business decisions through advanced data analysis, and optimizing data workflows. Adept at utilizing Business Intelligence tools like Power BI and Tableau for data storytelling and risk analytics. Strong analytical skills complemented by a recent specialization in Data Analytics for Business from St. Clair College with academic distinction
 
 ## Professional Experience:
 
@@ -41,7 +41,7 @@ I'm Rituraj Borah, a Data Analyst with over 9 years of experience in the Banking
 
 ## My Academic Project works:
 
-### 1. [Financial Markets Vs Macro-Economic Indicators of USA](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
+### 1. [Financial Markets Vs Macro-Economic Indicators](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
 
 [<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/)
 * This project delves into the analysis of financial markets and macroeconomic indicators of USA | Canada | India.

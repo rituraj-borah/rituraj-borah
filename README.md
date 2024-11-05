@@ -53,7 +53,15 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 ### 2. [Analysis of Permanent Resident Admissions in Canada](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada):
 
 [<img align='right' src='https://github.com/rituraj-borah/rituraj-borah/blob/main/canada-canada-day.gif' height='200' width="400">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
-In this project, **Excel** and **Tableau** were leveraged to analyze and visualize data from five distinct sources, providing insights into Canada's Permanent Residency landscape. The process began with meticulous data cleaning and organization, followed by strategic data pivoting in Tableau to examine trends across various immigration categories. Four comprehensive dashboards were developed to showcase critical findings, focusing on _Permanent Residency, Express Entry, Study Permits_, and _Immigration trends pre- and post-pandemic_, thus offering valuable perspectives on the dynamics of immigration to Canada.
+- Utilized Excel and Tableau to analyze data from five diverse sources, focusing on Canada’s Permanent Residency trends.
+- Conducted meticulous data cleaning and organization to ensure accuracy and relevance.
+- Performed strategic data pivoting in Tableau to uncover trends across various immigration categories.
+- Developed four comprehensive dashboards covering:
+-- Permanent Residency Trends
+-- Express Entry Insights
+-- Study Permits Overview
+-- Immigration Trends Pre- and Post-Pandemic
+- Provided actionable insights into the dynamics of Canada’s immigration landscape, with a focus on trends influenced by the pandemic
 
 ### 3. [Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau):
 

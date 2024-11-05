@@ -2,7 +2,7 @@
 
 # Rituraj Borah
 
-I'm Rituraj Borah, an Experienced Data Analyst with 9 years in IT and banking sectors, specializing in credit and debit card products. Proficient in managing large datasets, driving business decisions through advanced data analysis, and optimizing data workflows. Adept at utilizing Business Intelligence tools like Power BI and Tableau for data storytelling and risk analytics. Strong analytical skills complemented by a recent specialization in Data Analytics for Business from St. Clair College with academic distinction
+I am an Experienced Data Analyst with 9 years in IT and banking sectors, specializing in credit and debit card products. Proficient in managing large datasets, driving business decisions through advanced data analysis, and optimizing data workflows. Adept at utilizing Business Intelligence tools like Power BI and Tableau for data storytelling and risk analytics. Strong analytical skills complemented by a recent specialization in Data Analytics for Business from St. Clair College with academic distinction.
 
 ## Professional Experience:
 

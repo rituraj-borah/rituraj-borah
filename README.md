@@ -45,14 +45,14 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 [<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/)
 * This project delves into the analysis of financial markets and macroeconomic indicators of USA | Canada | India.
-*	Developed and deployed a data pipeline with Azure functions to automate the retrieval of financial data from Yahoo Finance, storing this data in Cosmos DB for efficient access and manipulation.
-*	Built and integrated machine learning models like XGBoost, FB-Prophet & LSTM to forecast stock prices based on historical data trends and macroeconomic indicators, enhancing the predictive accuracy.
+*	Developed and deployed an automated data pipeline with Azure functions to automate the retrieval of financial data from Yahoo Finance, storing this data in Cosmos DB for efficient access and manipulation.
+*	Built and integrated machine learning models like **XGBoost**, **FB-Prophet** & **LSTM** to forecast stock prices based on historical data trends and macroeconomic indicators, enhancing the predictive accuracy.
 *	Designed a user-friendly web application using Streamlit, enabling users to search for stock information, view a comprehensive dashboard, receive price predictions, and analyze sentiment from the top related news articles.
 
 
 ### 2. [Analysis of Permanent Resident Admissions in Canada](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada):
 
-[<img align='right' src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Analysis%20of%20Permanent%20Resident%20Admissions%20in%20Canada.jpg' height='200' width="400">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
+[<img align='right' src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Analysis%20of%20Permanent%20Resident%20Admissions%20in%20Canada.jpg' height='250' width="400">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
 - Utilized Excel and Tableau to analyze data from five diverse sources, focusing on Canada’s Permanent Residency trends.
 - Conducted meticulous data cleaning and organization to ensure accuracy and relevance.
 - Performed strategic data pivoting in Tableau to uncover trends across various immigration categories.
@@ -65,7 +65,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 ### 3. [Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau):
 
-[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Analyzing%20Dairy%20Industry.jpg" height='200' width="400">](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau)
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Analyzing%20Dairy%20Industry.jpg" height='250' width="400">](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau)
 - Conducted an in-depth analysis of Ontario's dairy market, focusing on sales trends, seasonal patterns, and consumer consumption habits using **Python**, **Excel**, and **Tableau**.
 - Identified sales trends across various dairy products over time to highlight growth rates and factors affecting demand.
 - Analyzed seasonal variations in dairy consumption, helping industry stakeholders with demand forecasting and planning.

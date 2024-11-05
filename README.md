@@ -57,10 +57,10 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 - Conducted meticulous data cleaning and organization to ensure accuracy and relevance.
 - Performed strategic data pivoting in Tableau to uncover trends across various immigration categories.
 - Developed four comprehensive dashboards covering:
--- Permanent Residency Trends
--- Express Entry Insights
--- Study Permits Overview
--- Immigration Trends Pre- and Post-Pandemic
+  - Permanent Residency Trends
+  - Express Entry Insights
+  - Study Permits Overview
+  - Immigration Trends Pre- and Post-Pandemic
 - Provided actionable insights into the dynamics of Canada’s immigration landscape, with a focus on trends influenced by the pandemic
 
 ### 3. [Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau):

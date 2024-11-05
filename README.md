@@ -44,10 +44,12 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 ### 1. [Financial Markets Vs Macro-Economic Indicators](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
 
 [<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/)
-* This project delves into the analysis of financial markets and macroeconomic indicators of USA | Canada | India.
-*	Developed and deployed an automated data pipeline with Azure functions to automate the retrieval of financial data from Yahoo Finance, storing this data in Cosmos DB for efficient access and manipulation.
-*	Built and integrated machine learning models like **XGBoost**, **FB-Prophet** & **LSTM** to forecast stock prices based on historical data trends and macroeconomic indicators, enhancing the predictive accuracy.
-*	Designed a user-friendly web application using Streamlit, enabling users to search for stock information, view a comprehensive dashboard, receive price predictions, and analyze sentiment from the top related news articles.
+- **Overview**: Created a web-based dashboard using Python and Streamlit for analyzing financial indices and macroeconomic data.
+- **Historical Data Analysis**: Enabled analysis of historical stock prices and financial metrics to identify patterns.
+- **Predictive Analytics**: Integrated XGBoost and LSTM models for forecasting future stock prices from historical data.
+- **Sentiment Analysis**: Implemented sentiment analysis on news articles to gauge market sentiment and its impact on stocks.
+- **Interactive Visualizations**: Used Plotly and Streamlit for dynamic visualizations, enhancing data exploration.
+- **Comprehensive Insights**: Combined market indices, economic indicators, correlation matrices, and sentiment analysis for strategic investment insights.
 
 
 ### 2. [Analysis of Permanent Resident Admissions in Canada](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada):

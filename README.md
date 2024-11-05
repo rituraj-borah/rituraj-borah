@@ -65,7 +65,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 ### 3. [Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau):
 
-[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Dairy%20Industry_new.gif" height='200' width="400">](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau)
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Analyzing%20Dairy%20Industry.jpg" height='200' width="400">](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau)
 - Conducted an in-depth analysis of Ontario's dairy market, focusing on sales trends, seasonal patterns, and consumer consumption habits using **Python**, **Excel**, and **Tableau**.
 - Identified sales trends across various dairy products over time to highlight growth rates and factors affecting demand.
 - Analyzed seasonal variations in dairy consumption, helping industry stakeholders with demand forecasting and planning.

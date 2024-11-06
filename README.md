@@ -43,7 +43,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 ### 1. [Financial Markets Vs Macro-Economic Indicators](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
 
-[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/)
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Financial%20Market%20vs%20Macro%20Economic%20Indicators.jpg" height='250' width="400">](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/)
 - **Overview**: Created a web-based dashboard using Python and Streamlit for analyzing financial indices and macroeconomic data.
 - **Historical Data Analysis**: Enabled analysis of historical stock prices and financial metrics to identify patterns.
 - **Predictive Analytics**: Integrated XGBoost and LSTM models for forecasting future stock prices from historical data.
@@ -53,7 +53,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 ### 2. [AI ChatBot for college website](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
 
-[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://github.com/rituraj-borah/AI-ChatBot-Ethical-AI)
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/AI%20chat%20bot.jpg" height='250' width="400">](https://github.com/rituraj-borah/AI-ChatBot-Ethical-AI)
 - Developed a QnA Chatbot with Microsoft Azure Language Service to streamline course and campus information on St. Clair College’s website.
 - Structured chatbot responses using a context tree, enhancing guided navigation and intuitive information retrieval.
 - Integrated a sample dataset with course and campus details, with scalable options for expanded Q&A sets.
@@ -62,7 +62,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 ### 3. [Financial Analysis and Stock Price prediction](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
 
-[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://github.com/rituraj-borah/Financial-Analysis-and-Stock-Price-prediction)
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Financial%20Analysis%20and%20Stock%20Price%20Prediction.jpg" height='250' width="400">](https://github.com/rituraj-borah/Financial-Analysis-and-Stock-Price-prediction)
 - Developed a web application for evaluating US-listed companies using financial ratios, stock performance metrics, and predictive analytics, empowering users in their investment decision-making.
 - Implemented Monte Carlo simulations and FB-Prophet models for forecasting cash flows and stock prices, helping users visualize future financial scenarios.
 - Created interactive visualizations with Plotly and Streamlit, allowing users to explore data dynamically and gain insights with ease.

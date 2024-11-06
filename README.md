@@ -51,8 +51,25 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 - **Interactive Visualizations**: Used Plotly and Streamlit for dynamic visualizations, enhancing data exploration.
 - **Comprehensive Insights**: Combined market indices, economic indicators, correlation matrices, and sentiment analysis for strategic investment insights.
 
+### 2. [AI ChatBot for college website](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
 
-### 2. [Analysis of Permanent Resident Admissions in Canada](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada):
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://github.com/rituraj-borah/AI-ChatBot-Ethical-AI)
+- Developed a QnA Chatbot with Microsoft Azure Language Service to streamline course and campus information on St. Clair College’s website.
+- Structured chatbot responses using a context tree, enhancing guided navigation and intuitive information retrieval.
+- Integrated a sample dataset with course and campus details, with scalable options for expanded Q&A sets.
+- Enhanced website navigation for students by reducing search time and improving access to high-demand information.
+- Collaborated with faculty to refine chatbot priorities, ensuring responses are relevant and aligned with student need.
+
+### 3. [Financial Analysis and Stock Price prediction](https://financialanalysis-financialmarket-macroeconomicindicators.streamlit.app/) : 
+
+[<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/banner.jpg" height='250' width="400">](https://github.com/rituraj-borah/Financial-Analysis-and-Stock-Price-prediction)
+- Developed a web application for evaluating US-listed companies using financial ratios, stock performance metrics, and predictive analytics, empowering users in their investment decision-making.
+- Implemented Monte Carlo simulations and FB-Prophet models for forecasting cash flows and stock prices, helping users visualize future financial scenarios.
+- Created interactive visualizations with Plotly and Streamlit, allowing users to explore data dynamically and gain insights with ease.
+- Integrated financial ratios (e.g., liquidity, profitability) and trading indicators like Golden Cross to offer a detailed view of company performance and growth potential.
+- Utilized a technology stack including Python, Pandas, and NumPy with Streamlit, creating a comprehensive, user-friendly platform for stock analysis and forecasting.
+
+### 4. [Analysis of Permanent Resident Admissions in Canada](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada):
 
 [<img align='right' src='https://github.com/rituraj-borah/rituraj-borah/blob/main/Analysis%20of%20Permanent%20Resident%20Admissions%20in%20Canada.jpg' height='250' width="400">](https://github.com/rituraj-borah/Analysis-of-Permanent-Resident-Admissions-in-Canada)
 - Utilized Excel and Tableau to analyze data from five diverse sources, focusing on Canada’s Permanent Residency trends.
@@ -65,7 +82,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
   - **Immigration Trends Pre- and Post-Pandemic**
 - Each dashboard provided actionable insights into the dynamics of Canada’s immigration landscape, with a focus on trends influenced by the pandemic
 
-### 3. [Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau):
+### 5. [Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau):
 
 [<img align="right" src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Analyzing%20Dairy%20Industry.jpg" height='250' width="400">](https://github.com/rituraj-borah/Ontario_Dairy-Market-Analysis-using-Python-and-Tableau)
 - Conducted an in-depth analysis of Ontario's dairy market, focusing on sales trends, seasonal patterns, and consumer consumption habits using **Python**, **Excel**, and **Tableau**.

@@ -37,7 +37,7 @@ I am an Experienced Data Analyst with 9 years in IT and banking sectors, special
 
 
 ## Skills: 
-[<img src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Skill%20Set%20new.jpg" height='250' width="400" />]
+[<img src="https://github.com/rituraj-borah/rituraj-borah/blob/main/Skill%20Set%20new.jpg" width="800" />]
 -	**Programming**: Python, SQL, T-SQL
 -	**Tools**: Power BI, Tableau, Jupyter Notebook, MS Excel (V-lookup, Pivot table, Solver)
 -	**Skills**: Data Synthesis, Customer Segmentation, Campaign Optimization, Data Visualization, Machine Learning, AWS, Azure
